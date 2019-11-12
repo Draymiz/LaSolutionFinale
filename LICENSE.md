@@ -1,2 +1,2 @@
 
-Copyright (C) 2019 TheDraymiz
+Copyright (C) 2019 
