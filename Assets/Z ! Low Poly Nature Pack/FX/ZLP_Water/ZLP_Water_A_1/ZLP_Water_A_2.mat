@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: ZLP_Water_A_2
   m_Shader: {fileID: 4800000, guid: 3dc6af73d9cf18542a39aa8f12772710, type: 3}
   m_ShaderKeywords: 
@@ -87,12 +88,12 @@ Material:
     - _UVSec: 0
     - _WaterDepth: 0.5
     - _WaterFalloff: 1
-    - _WaterOpacity: 0.528
+    - _WaterOpacity: 0.21
     - _WaterReflection: 0.5
     - _WaterScale: 0.199
-    - _WaterSmoothness: 2
+    - _WaterSmoothness: 1.58
     - _WaterSpecular: 0
-    - _WaterSpeed: 0.2
+    - _WaterSpeed: 0.25
     - _ZWrite: 1
     - __dirty: 1
     m_Colors:
