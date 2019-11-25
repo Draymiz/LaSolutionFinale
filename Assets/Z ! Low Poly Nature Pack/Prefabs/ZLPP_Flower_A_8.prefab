@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 4919561565826288}
   - component: {fileID: 33276914773667660}
   - component: {fileID: 23285385340546738}
-  - component: {fileID: 5294856406338857467}
   m_Layer: 0
   m_Name: ZLPP_Flower_A_8
   m_TagString: Untagged
@@ -79,17 +78,3 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!64 &5294856406338857467
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1298943490037792}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_Mesh: {fileID: 4300000, guid: 4cdf47e52750c494880e9ec3e5ac1177, type: 3}

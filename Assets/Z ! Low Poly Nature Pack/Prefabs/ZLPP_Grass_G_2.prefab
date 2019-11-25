@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 4026327474761928}
   - component: {fileID: 33887931928027250}
   - component: {fileID: 23409050285865184}
-  - component: {fileID: 6034080296050571195}
   m_Layer: 0
   m_Name: ZLPP_Grass_G_2
   m_TagString: Untagged
@@ -79,17 +78,3 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!64 &6034080296050571195
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1153755933843742}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_Mesh: {fileID: 4300000, guid: c8f68ed2cb7bc2c47931b0915ed2e6ea, type: 3}
