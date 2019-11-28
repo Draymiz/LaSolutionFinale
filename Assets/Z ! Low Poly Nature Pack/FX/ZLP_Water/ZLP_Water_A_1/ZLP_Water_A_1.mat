@@ -93,7 +93,7 @@ Material:
     - _WaterScale: 0.199
     - _WaterSmoothness: 2.47
     - _WaterSpecular: 0
-    - _WaterSpeed: 0.45
+    - _WaterSpeed: 0.07
     - _ZWrite: 1
     - __dirty: 1
     m_Colors:
