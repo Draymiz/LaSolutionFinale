@@ -4,8 +4,7 @@ using UnityEngine;
 
 public class Teleporter : MonoBehaviour
 {
-  //  public GameObject PointB;
-    public Vector3 vector;
+    public GameObject PointB;
     // Start is called before the first frame update
     void Start()
     {
@@ -17,13 +16,17 @@ public class Teleporter : MonoBehaviour
     {
         if(Input.GetKeyDown(KeyCode.Mouse0))
         {
-            transform.position = new Vector3(1,1,1);
+            transform.position = PointB.transform.position;
             Debug.Log("Hello");
         }
     }
 
- /*   void OnTriggerEnter(Collision other)
+  /*  void OnTriggerEnter(Collision other)
     {
+        if(other)
+        {
+           
+        }
         // Si le joueur entre dans le collider ça le tp 
         transform.position = transform.PointB;
     }*/
