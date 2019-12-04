@@ -171,6 +171,7 @@ MonoBehaviour:
     BobDuration: 0.2
     BobAmount: 0.1
   m_StepInterval: 5
+  Camera: {fileID: 6275901961509107552}
 --- !u!54 &6275901961504134688
 Rigidbody:
   m_ObjectHideFlags: 0
