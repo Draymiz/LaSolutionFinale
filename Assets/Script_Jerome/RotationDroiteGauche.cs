@@ -19,7 +19,7 @@ public class RotationDroiteGauche : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.rotation = Quaternion.Slerp(transform.rotation, to.rotation, Time.deltaTime * speed);
+     //   transform.rotation = Quaternion.Slerp(transform.rotation, to.rotation, Time.deltaTime * speed);
      //   transform.Rotate(Vector3.up, speed * Time.deltaTime);
     }
 }
