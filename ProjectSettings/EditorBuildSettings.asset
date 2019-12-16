@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes_Jerome/Menu.unity
+    guid: 144635099a31d434593e9c4df777bf0e
+  - enabled: 1
     path: Assets/Scenes_Jerome/Bureau.unity
     guid: f7afa837ddf49b940b5142d094a2e4b9
   - enabled: 1
-    path: Assets/Scenes_Jerome/Maquette.unity
+    path: Assets/Scenes_Jerome/Photo_Level1.unity
     guid: a3a5670998315f9408281d43fbb3ac0c
-  - enabled: 1
-    path: Assets/Scenes_Jerome/Menu.unity
-    guid: 144635099a31d434593e9c4df777bf0e
   m_configObjects: {}

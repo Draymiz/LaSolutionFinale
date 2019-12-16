@@ -19,6 +19,6 @@ public class TeleporterVersMaquette : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        SceneManager.LoadScene("Maquette");   
+        SceneManager.LoadScene("Photo_Level1");   
     }
 }
