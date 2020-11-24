@@ -1,0 +1,13 @@
+H:\Projects\In Progress\Unity\EnemySample\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+H:\Projects\In Progress\Unity\EnemySample\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+H:\Projects\In Progress\Unity\EnemySample\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.dll
+H:\Projects\In Progress\Unity\EnemySample\Temp\UnityVS_bin\Debug\UnityEditor.dll
+H:\Projects\In Progress\Unity\EnemySample\Temp\UnityVS_bin\Debug\UnityEngine.dll
+H:\Projects\In Progress\Unity\EnemySample\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+H:\Projects\In Progress\Unity\EnemySample\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+H:\Projects\In Progress\Unity\EnemySample\Temp\UnityVS_bin\Debug\UnityEngine.xml
+H:\Projects\In Progress\Unity\EnemySample\Temp\UnityVS_bin\Debug\UnityEditor.xml
+H:\Projects\In Progress\Unity\EnemySample\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+H:\Projects\In Progress\Unity\EnemySample\obj\Debug\UnityVS.EnemySample.CSharp.csprojResolveAssemblyReference.cache
+H:\Projects\In Progress\Unity\EnemySample\obj\Debug\Assembly-CSharp.dll
+H:\Projects\In Progress\Unity\EnemySample\obj\Debug\Assembly-CSharp.pdb
