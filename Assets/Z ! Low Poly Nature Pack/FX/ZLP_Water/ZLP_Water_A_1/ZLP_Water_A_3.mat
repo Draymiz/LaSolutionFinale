@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: ZLP_Water_A_3
   m_Shader: {fileID: 4800000, guid: 3dc6af73d9cf18542a39aa8f12772710, type: 3}
   m_ShaderKeywords: 
